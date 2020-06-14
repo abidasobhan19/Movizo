@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342022640757",
+    "firebase_url": "https://movizo-4b1a4.firebaseio.com",
+    "project_id": "movizo-4b1a4",
+    "storage_bucket": "movizo-4b1a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342022640757:android:f8e126de5dacf75981943c",
+        "android_client_info": {
+          "package_name": "com.example.movizo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342022640757-ov51unhdrmqaem0po9ktdqn61dp0nvuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD635ZSFghk9BC_Z2pQhkfpmPjlqrzF2MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342022640757-ov51unhdrmqaem0po9ktdqn61dp0nvuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
